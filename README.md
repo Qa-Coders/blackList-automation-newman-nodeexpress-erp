@@ -18,21 +18,21 @@ Este repositório tem uma página de publicação do "report" do teste que utili
 
 ## Comando para instalar o Newman:
 ```sh default
-* npm install -g newman
+ npm install -g newman
 ```
 ## Comando para executar apenas com a Collection:
 ```sh default
-* newman run partner-ci-collection.json
+ newman run partner-ci-collection.json
 ```
 ## Comando pra executar com as variáveis:
 ```sh default
-* newman run partner-ci-collection.json -e partner-ci-develop-environment.json
+ newman run partner-ci-collection.json -e partner-ci-develop-environment.json
 ```
 ## Comando pra instalar o Report:
 ```sh default
-* npm install -g newman-reporter-htmlextra
+ npm install -g newman-reporter-htmlextra
 ```
 ## Comando pra executar o Newman e gerar o Relatório HTML:
 ```sh default
-* newman run partner-ci-collection.json -e partner-ci-develop-environment.json -r htmlextra
+ newman run partner-ci-collection.json -e partner-ci-develop-environment.json -r htmlextra
 ```
