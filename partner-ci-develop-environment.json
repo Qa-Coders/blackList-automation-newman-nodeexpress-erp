@@ -1,6 +1,6 @@
 {
-	"id": "00048ef4-7744-472c-9c5b-1c02f5723868",
-	"name": "Partners",
+	"id": "cc35506c-b20b-4898-920d-a56fef8c2355",
+	"name": "partner-ci-develop-environment",
 	"values": [
 		{
 			"key": "dev",
@@ -202,6 +202,6 @@
 		}
 	],
 	"_postman_variable_scope": "environment",
-	"_postman_exported_at": "2023-08-31T22:54:06.508Z",
-	"_postman_exported_using": "Postman/10.17.5"
+	"_postman_exported_at": "2023-09-08T22:12:19.781Z",
+	"_postman_exported_using": "Postman/10.17.6"
 }
