@@ -10,7 +10,7 @@ Este repositório tem uma página de publicação do "report" do teste que utili
 **PROJETO QA.CODERS ACADEMY - AUTOMAÇÃO DA API'S**
 # HACKATHON
 
-# Boas práticas: Sempre deixar as nomemclaturas das collections e environments no padrão abaixo.
+# Boas práticas: Sempre deixar as nomenclaturas das collections e environments no padrão abaixo.
 
 ## Instalação do Ambiente
 
